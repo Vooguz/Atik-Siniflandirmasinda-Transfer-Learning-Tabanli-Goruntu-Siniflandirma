@@ -1,0 +1,1 @@
+# Atik-Siniflandirmasinda-Transfer-Learning-Tabanli-Goruntu-Siniflandirma
