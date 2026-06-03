@@ -1,0 +1,22 @@
+# Sanal ortam
+venv/
+.venv/
+env/
+
+# Veri seti (boyut nedeniyle repoya dahil edilmedi)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
